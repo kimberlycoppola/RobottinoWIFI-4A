@@ -1,3 +1,5 @@
+//da telefono a computer
+
 #include <SoftwareSerial.h>
 //libreria che mi fa accedere alla classe SoftwareSerial
 //attributi: pinTx e pin Rx
